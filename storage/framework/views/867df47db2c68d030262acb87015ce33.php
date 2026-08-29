@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/gocab/Modules/CabBooking/resources/views/admin/widgets/ride-status.blade.php ENDPATH**/ ?>

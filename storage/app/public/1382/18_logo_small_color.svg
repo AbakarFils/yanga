@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="260" viewBox="0 0 500 260">
+
+<defs>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#FFD400"/>
+    <stop offset="55%" stop-color="#FFB000"/>
+    <stop offset="100%" stop-color="#FF9800"/>
+  </linearGradient>
+  <linearGradient id="gold2" x1="0" y1="1" x2="1" y2="0">
+    <stop offset="0%" stop-color="#FF9800"/>
+    <stop offset="100%" stop-color="#FFE066"/>
+  </linearGradient>
+</defs>
+
+
+<g transform="translate(5,-15) scale(.45)">
+<path d="M126 92 L220 92 L313 203 C327 220 321 241 302 248
+         L267 260 C249 266 234 258 223 245 Z" fill="#111827"/>
+<path d="M312 204 C357 146 404 106 493 90
+         C449 132 414 180 384 234
+         C357 282 338 333 306 387
+         L250 387 C278 331 297 283 312 204 Z" fill="url(#gold)"/>
+<path d="M311 205 C287 248 267 293 242 387
+         L203 387 C229 299 262 238 311 205 Z" fill="#111827"/>
+<path d="M316 48 C278 48 250 76 250 114
+         C250 160 316 209 316 209
+         C316 209 382 160 382 114
+         C382 76 354 48 316 48 Z" fill="url(#gold)"/>
+<circle cx="316" cy="114" r="23" fill="#FFFFFF"/>
+<path d="M278 243 l20 -8 l4 9 l-19 8 z
+         M255 282 l18 -7 l5 10 l-18 7 z
+         M237 324 l15 -6 l5 11 l-15 6 z"
+      fill="#FFFFFF"/>
+<rect x="66" y="228" width="89" height="12" rx="6" fill="#FFD400"/>
+<rect x="44" y="256" width="120" height="12" rx="6" fill="#FFB000"/>
+<rect x="96" y="284" width="90" height="12" rx="6" fill="#FF9800"/>
+<!-- stylized vehicle silhouette -->
+<path d="M330 327 C355 300 397 292 434 298
+         C461 303 480 318 488 334
+         H341 Z" fill="#111827" opacity=".9"/>
+<circle cx="374" cy="337" r="12" fill="#111827"/>
+<circle cx="446" cy="337" r="12" fill="#111827"/>
+</g>
+<text x="245" y="195" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="900" fill="#111827">YANGA</text>
+
+</svg>
